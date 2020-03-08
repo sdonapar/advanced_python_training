@@ -1,7 +1,7 @@
 # Advanced Topics in Python
 * ## How Python is different from other languages ?
     * ### Python distributions
-    * ### Environment setup
+    * ### [Environment setup](./installation.md)
 * ## How python operates under the hood ?
     * ### Dunder methods
     * ### Context Manager
